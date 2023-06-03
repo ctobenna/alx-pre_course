@@ -1,10 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo "The school is so cool"
-=======
 echo "The school is open"
->>>>>>> update_script
-=======
-echo "The school is open"
->>>>>>> d7c7e0e417d82d95b9ab20ddb9d64dff5d598006
